@@ -123,7 +123,7 @@ learning 📚.
 
 ## 🌍 Go to Live Demo
 
-Check out the live project here: [Live Demo](YOUR_PROJECT_URL) 🚀
+Check out the live project here: [Live Demo](https://pomic.onrender.com) 🚀
 
 ## 💡 Future Enhancements
 
